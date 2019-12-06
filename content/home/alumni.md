@@ -14,8 +14,12 @@ title = "Alumni"
 
 Zach Blas
 
-Amanda Starling Gould
+Luke Caldwell
 
 Shane Denson
+
+Amanda Starling Gould
+
+Inge Hinterwaldner
 
 David Rambo

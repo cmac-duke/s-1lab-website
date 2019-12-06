@@ -69,5 +69,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-S-1: Speculative Sensation Lab is...
