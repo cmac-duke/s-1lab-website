@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Recent Projects"
 subtitle = ""
 
 [content]
@@ -74,4 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+For a full list of past projects, [click here](/project/).
