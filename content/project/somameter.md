@@ -7,8 +7,8 @@ summary: "*Somameter* is portable arousal uploading device for imaging sensation
 authors: []
 tags: [project]
 categories: []
-date: 2015-02-06T13:12:58-05:00
-lastmod: 2015-02-06T13:12:58-05:00
+date: 2012-02-06T13:12:58-05:00
+lastmod: 2012-02-06T13:12:58-05:00
 featured: false
 draft: false
 

@@ -1,7 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+# Projects Page
+
 title: Projects
+type: "widget_page"
 summary: ""
 authors: []
 tags: []
@@ -18,14 +21,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 
 url_code: ""
 url_pdf: ""

@@ -10,7 +10,7 @@ categories: []
 date: 2019-12-06T13:57:01-05:00
 lastmod: 2019-12-06T13:57:01-05:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Members of S-1 are currently at work on appropriating Neurosky’s EEG-reader headset technology for speculative projects in post-cinematic aesthetics and media philosophy. Luke Caldwell has already designed interactive modules that utilize the MindWave headset. Now his design of a networking platform will enable multiple headsets to engage in a single artifact, whether that be a video conference, a continuously manipulated video as it streams, an audio file, or something else entirely.
+Members of S-1 previously adopted Neurosky’s EEG-reader headset technology for speculative projects in post-cinematic aesthetics and media philosophy. Luke Caldwell designed interactive modules that utilize the MindWave headset. The intention was to establish a networking platform that woulg enable multiple headsets to engage in a single artifact, whether that be a video conference, a continuously manipulated video as it streams, an audio file, or something else entirely.
