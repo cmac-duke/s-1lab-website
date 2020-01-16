@@ -40,3 +40,59 @@ Copyright 2017-present [George Cushen](https://georgecushen.com).
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+# For S-1
+
+## Setting up the environment
+
+### Install git
+
+- In Windows, I recommend using either the GitHub graphical application or downloading MSYS2 (a terminal program that works like nix systems) and entering ```pacman -S git```.
+
+- Mac OS already has git installed.
+
+- For Linux, use your distribution's package manager. For example, for debian/Ubuntu distros: 
+```
+sudo apt install git
+```
+Or, for arch and arch-based distros like Manjaro:
+```
+sudo pacman -S git
+```
+
+Then, configure some basic settings. For your github user account info, enter the following and replace your credentials into the square brackets (excluding the brackets from the command):
+```
+git config --global user.name [USERNAME]
+
+git config --global user-email [EMAIL-ADDRESS]
+```
+
+### Install Hugo
+If on Linux, then follow your distribution's package manager or use snap:
+```
+snap install hugo
+```
+
+On Mac, install [homebrew](brew.sh).
+
+Then use homebrew to install hugo:
+```
+brew install hugo
+```
+
+
+### Cloning the repo
+Navigate to where you want to keep a clone of the repository on your system. Then, clone it with the following command:
+
+```
+git clone https://github.com/cmac-duke/s-1lab-website.git
+```
+
+Next, you need to activate the submodules that go with the theme we're using: Academic. To do this, run the following two commands:
+
+```
+git submodule update --init --recursive
+
+git submodule update --remote --merge
+```
+
