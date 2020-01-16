@@ -60,11 +60,11 @@ Or, for arch and arch-based distros like Manjaro:
 sudo pacman -S git
 ```
 
-Then, configure some basic settings. For your github user account info, enter the following and replace your credentials into the square brackets (excluding the brackets from the command):
+Then, configure some basic settings. For your github user account info, enter the following and replace your credentials into the square brackets (excluding the brackets from the command, but keeping the quotation marks):
 ```
-git config --global user.name [USERNAME]
+git config --global user.name "[USERNAME]"
 
-git config --global user-email [EMAIL-ADDRESS]
+git config --global user-email "[EMAIL-ADDRESS]"
 ```
 
 ### Install Hugo
