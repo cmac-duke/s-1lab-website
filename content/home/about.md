@@ -12,6 +12,8 @@ weight = 20  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 
+[design]
+  columns = "1"
 +++
 ![](/static/img/featured.png)
 
