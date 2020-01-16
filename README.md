@@ -64,7 +64,7 @@ Then, configure some basic settings. For your github user account info, enter th
 ```
 git config --global user.name "[USERNAME]"
 
-git config --global user-email "[EMAIL-ADDRESS]"
+git config --global user.email "[EMAIL-ADDRESS]"
 ```
 
 ### Install Hugo
