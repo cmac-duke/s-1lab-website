@@ -5,7 +5,7 @@ title: "Mindwave"
 subtitle: ""
 summary: ""
 authors: []
-tags: [project]
+tags: []
 categories: []
 date: 2019-12-06T13:57:01-05:00
 lastmod: 2019-12-06T13:57:01-05:00

@@ -27,5 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
 {{< youtube 5koenlbDrxk >}}
