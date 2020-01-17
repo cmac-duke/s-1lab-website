@@ -70,8 +70,9 @@ git config --global user.email "[EMAIL-ADDRESS]"
 ### Install Hugo
 If on Linux, then follow your distribution's package manager or use snap:
 ```
-snap install hugo
+snap install hugo --channel=extended
 ```
+It's important to include the "extended" argument in our case, otherwise it won't build the site.
 
 On Mac, install [homebrew](brew.sh).
 
