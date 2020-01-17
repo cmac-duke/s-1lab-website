@@ -5,7 +5,7 @@ title: "The Biometric Selection Engine"
 subtitle: ""
 summary: ""
 authors: []
-tags: [project]
+tags: []
 categories: []
 date: 2012-02-06T13:12:58-05:00
 lastmod: 2012-02-06T13:12:58-05:00
