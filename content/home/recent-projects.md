@@ -24,9 +24,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-#   [[content.filter_button]]
-#     name = "Recent"
-#     tag = "recent"
+   [[content.filter_button]]
+     name = "Recent"
+     tag = "recent"
   
    [[content.filter_button]]
      name = "All"
@@ -78,5 +78,3 @@ subtitle = ""
  css_class = ""
 +++
 
-
-To check out all of our past projects, [click here](/project/).
