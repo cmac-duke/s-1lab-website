@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Mark Olson
+name: Luciana Parisi
 
 # Username (this should match the folder name)
 authors:
-- Mark Olson
+- Luciana Parisi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 #role: Professor of Artificial Intelligence
@@ -15,7 +15,7 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: Duke University
-  url: "https://aahvs.duke.edu/people/profile/mark-olson"
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -51,9 +51,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/cmac-duke/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/cmac-duke/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
