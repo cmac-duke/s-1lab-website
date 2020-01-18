@@ -1,8 +1,6 @@
 +++
 # A Projects section created with the Portfolio widget.
 
-# This section is intended to displays recent projects from `content/project/` with the 'recent' tag.
-
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -78,4 +76,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+For a list of all our projects, click [here](/project).

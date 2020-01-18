@@ -89,11 +89,13 @@ Navigate to where you want to keep a clone of the repository on your system. The
 git clone https://github.com/cmac-duke/s-1lab-website.git
 ```
 
-Next, you need to activate the submodules that go with the theme we're using: Academic. To do this, run the following two commands:
+Next, you need to activate the submodules that go with the theme we're using: Academic. To do this, run the following command:
 
 ```
 git submodule update --init --recursive
-
+```
+In the future, you may update by typing in the following while in the website's directory:
+```
 git submodule update --remote --merge
 ```
 
