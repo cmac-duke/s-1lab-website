@@ -28,3 +28,15 @@ image:
 projects: []
 ---
 {{< youtube 5koenlbDrxk >}}
+
+A voice speaks, and Mario walks.
+
+A heart beats, and Mario jumps.
+
+A heat gun powers on, and Mario runs.
+
+A muscle flexes, and Mario ducks.
+
+Another screen records the sequence with spaces, returns, and a pair of letters.
+
+*Networked Synaesthesia* is a multisensory, multiplayer, distributed computer interface. We presented a prototype at the Network Ecologies symposium at the Franklin Humanities Institute of Duke University in 2013. A month later, while university administrators celebrated the renaming of a PhD program that is today known as CMAC, we reached the second level of *Super Mario*.

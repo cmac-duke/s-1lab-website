@@ -29,6 +29,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "Recent"
      tag = "recent"
+     
+    [[content.filter_button]]
+      name = "Events"
+      tag = "event"
   
    [[content.filter_button]]
      name = "All"
