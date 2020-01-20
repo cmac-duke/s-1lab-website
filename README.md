@@ -165,3 +165,18 @@ hugo new --kind authors authors/firstname-lastname
 This creates a new folder within the authors/ subdirectory. And within that new folder it has created two files: an "_index.md" file and an "avatar.jpg" file. First, let's modify the markdown file to display the new author on the website.
 
 Open the newly created "_index.md" file and make sure that the display name on line 2 is correct. After that, scroll down and adjust any of the interests, courses, or other info that come with the template. For anything you do not want to include, simply add a hash (#) at the beginning of those lines. Most importantly, at the bottom you will find a list of user groups. All of the options are listed in content/home/people.md. Apply the correct user group (e.g. "- Graduate Students"). After saving, you should see the new name and its avatar.jpg displayed on the home page.
+
+In order to change the avatar, simply replace the image with another .png or .jgp file that has been named "avatar".
+
+### Adding other content
+Other files such as projects and events follow a similar format. Each has its own template, which is called by the specific "hugo new" command entered into the terminal command line.
+
+To create a new project:
+```
+hugo new --kind projects projects/give-it-a-name
+```
+
+To create a new event:
+```
+hugo new --kind event event/hear-ye-hear-ye
+```
