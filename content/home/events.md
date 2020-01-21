@@ -2,7 +2,7 @@
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
@@ -24,13 +24,21 @@ subtitle = "Talks, Conferences, and Visiting Scholars"
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
+#  [content.filters]
+#    tag = "upcoming, passed"
+#    category = ""
+#    publication_type = ""
+#    exclude_featured = false
+#    exclude_past = false
+#    exclude_future = false
+    
+  [[content.filter_button]]
+    name = "Upcoming"
+    tag = "upcoming"
+    
+  [[content.filter_button]]
+    name = "Past"
+    tag = "past"
     
 [design]
   # Toggle between the various page layout types.

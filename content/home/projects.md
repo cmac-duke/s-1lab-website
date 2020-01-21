@@ -11,7 +11,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "projects"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -76,4 +76,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-For a list of all our projects, click [here](/project).
+For a list of all our projects, click [here](/projects).

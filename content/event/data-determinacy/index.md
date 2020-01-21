@@ -4,7 +4,7 @@
 title: "Data Determinacy"
 summary: "A CMAC symposium and seminar on race and algorithms."
 authors: []
-tags: []
+tags: [past]
 categories: []
 date: 2018-04-01T20:54:13-05:00
 
