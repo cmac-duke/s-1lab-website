@@ -5,7 +5,7 @@ active = true
 weight = 75
 
 # ... Put Your Section Options Here (title etc.) ...
-title = ""
+title = "Alumni"
 
 [content]
   # Choose which groups/teams of users to display.

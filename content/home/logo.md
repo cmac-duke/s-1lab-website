@@ -2,7 +2,7 @@
 # A section created with the Blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -44,4 +44,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{< figure library="true" src="featured.png" lightbox="true" >}}
+{{< figure library="true" src="s-1_Logo_NoShadows.svg" lightbox="true" >}}
