@@ -1,5 +1,5 @@
 +++
-widget = "people"
+widget = "alumni"
 headless = true  # This file represents a page section.
 active = true
 weight = 75
