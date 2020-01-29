@@ -41,15 +41,21 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 
+<!-- DOCUMENTATION FOR S-1 LAB -->
+
 # For S-1
 
 Note that the directions below can be found on Hugo's website (gohugo.io) as well as in the documentation for the Academic theme (https://sourcethemes.com/academic/docs/), especially under "Managing Content."
 
 ## Setting up the environment
 
+### Make a GitHub account
+
+Go to https://www.github.com and make an account. Then have someone invite you to the cmac-duke group (github.com/cmac-duke). The site's repository is on there (github.com/cmac-duke/s-1lab-website).
+
 ### Install git
 
-- In Windows, I recommend using either the GitHub graphical application or downloading MSYS2 (a terminal program that works like nix systems) and entering ```pacman -S git```.
+- In Windows, I recommend either using the GitHub graphical application or downloading MSYS2 (a terminal program that works like Unix systems and uses Arch Linux's package manager: pacman) from https://www.msys2.org/ and entering ```pacman -S git```.
 
 - Mac OS already has git installed.
 
@@ -64,13 +70,16 @@ git config --global user.name "[USERNAME]"
 
 git config --global user.email "[EMAIL-ADDRESS]"
 ```
+<blockquote>
+If you are required to enter your GitHub credentials every time you push changes to the repo on GitHub, then follow these directions to cache your password: https://help.github.com/en/github/using-git/caching-your-github-password-in-git
+</blockquote>
 
 ### Install Hugo
 If on Linux, then follow your distribution's package manager or use snap:
 ```
 snap install hugo --channel=extended
 ```
-It's important to include the "extended" argument in our case, otherwise it won't build the site.
+It's important to include the "extended" argument in our case, otherwise it won't build the site. This is a requirement of the "Academic" theme we're using.
 
 On Mac, install [homebrew](brew.sh).
 
@@ -79,9 +88,13 @@ Then use homebrew to install hugo:
 brew install hugo
 ```
 
+In the future, you may update your homebrew packages by entering: ```brew update```
 
 ### Cloning the repo
-Navigate to where you want to keep a clone of the repository on your system. Then, clone it with the following command:
+
+Navigate to where you want to keep a clone of the repository on your system. If you are using the command line for the first time, there are plenty of tutorials for navigation. You'll likely only need to use three commands: pwd (present working directory), cd (change directory), and ls (list). And remember, you can press TAB to autocomplete your destination.
+
+Once you're where you want to be, clone our website's repository ("repo" for short) with the following command, which you can copy and paste (usually with Cmd/Ctrl + Shift + V):
 
 ```
 git clone https://github.com/cmac-duke/s-1lab-website.git
@@ -98,20 +111,33 @@ git submodule update --remote --merge
 ```
 Why is this necessary? Because the theme/ folder for the website is actually a container for the Academic repository. Cloning our S-1 Website does not initially include those files.
 
+### Making sure it works
+
+Now you're going to need to get into the command line in order to use Hugo. While this is not strictly necessary for changing the website, I recommend it so you can make sure your changes actually work.
+
+While in the s-1lab-website directory (you can be anywhere in it, not only the top directory), type ```hugo``` and press enter. This builds the site, which means hugo goes through all the files and turns them into browser-legible html, which get deposited in a newly made public/ directory. 
+
+<blockquote>
+Sidenote: The public/ directory is not part of the repository. One of the hidden files (these start with a period) in a git repository is ".gitignore". It lists all the files and subdirectories that are excluded by git's tracking.
+</blockquote>
+
+
 ## Contributing to the site
 
 ### Work on a separate branch
 
-First and foremost, I recommend working within a different branch from master. This is part of git's version control system. Think of it like a copied version that enables you to tool around without worrying about messing up the project. If you end up liking what you change, then you can merge it with the master branch. There are plenty of tutorials for these functions, including the official one: (https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
+First and foremost, I recommend working within a different branch from the "master" branch. This is part of git, which is a version control system. Think of it like a copy of the repository that enables you to tool around without worrying about messing up the project. If you end up liking what you change, then you can merge it with the master branch. I will walk you through how to do this. Know that there are plenty of tutorials for these functions, including the official one: (https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 
 Before I explain how to do that, ensure that your local repository is up to date with the original one upstream on github.com:
 ```
 git fetch origin
 git merge
 ```
+"Origin" refers to where the GitHub repository is hosted. It should already be set up when you cloned the repo. You can confirm this by running ```git remote -v```.
+
 Now you're ready to make your own contributions on a fresh branch.
 
-To list currently available branches enter the following into your terminal (as with the above steps, this will only work while working within the directory of a git repository):
+To list currently available branches, enter the following into your terminal (as with the above steps, this will only work while working within the directory of a git repository):
 ```
 git branch
 ```
@@ -124,6 +150,14 @@ git checkout -b dev
 As you work, you can type in "git status" to see a list of all the files you've modified, including new ones and deleted ones.
 
 Once you're happy with the work you've done, add the files and commit them:
+```
+git add .
+```
+and then
+```
+git commit -m "Type in your commit message here."
+```
+Or do it all at once:
 ```
 git commit -a -m "Enter your commit message here."
 ```
@@ -148,9 +182,9 @@ Finally, delete the "dev" branch so that you can remake it in the future.
 git branch -d dev
 ```
 
-Why bother with this last step? Because branches do not automatically keep up to date with each other. You could come back to work on the site and, as before, begin by merging your local "master" branch with the original one on github. At that point, your old "dev" branch will be out of date. This presents problems when merging the two.
+Why bother with this last step? Because branches do not automatically keep up to date with each other. You could come back to work on the site and, as before, begin by merging your local "master" branch with the original one on github. At that point, your old "dev" branch will be out of date. Alternatively, everytime to return to the dev branch, you could merge it with master.
 
-Lastly, run the following command to add your new changes to github:
+Lastly, run the following command to add your new changes to the origin repo on GitHub:
 ```
 git push
 ```
