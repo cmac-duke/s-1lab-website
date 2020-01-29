@@ -213,7 +213,7 @@ hugo new --kind authors authors/firstname-lastname
 This creates a new folder within the content/authors/ subdirectory. And within that new folder it has created two files: an "_index.md" file and an "avatar.jpg" file. First, let's modify the markdown file to display the new author on the website.
 
 <blockquote>
-  You can refer to mine (authors/David-Rambo/) as an example. You'll see that I've replaced my organization "- name:", which for most of you is "Duke University" with my own text. The Academic theme is set to provide some simple icons for various websites like GitHub and Twitter.
+  You can refer to mine (authors/David-Rambo/) as an example. You'll see that I've replaced my organization "- name:", which for most of you is "Duke University", with my own text. The Academic theme is set to provide some simple icons for various websites like GitHub and Twitter.
 </blockquote>
 
 Open the newly created "_index.md" file and make sure that the display name on line 2 is correct. After that, scroll down and adjust any of the interests, courses, or other info that come with the template. For anything you do not want to include, simply add a hash (#) at the beginning of those lines. Most importantly, at the bottom you will find a list of user groups. All of the options are listed in content/home/people.md. Apply the correct user group (e.g. "- Graduate Students"). After saving, you should see the new name and its avatar.jpg displayed on the home page.
