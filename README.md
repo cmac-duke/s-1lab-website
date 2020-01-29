@@ -113,14 +113,17 @@ Why is this necessary? Because the theme/ folder for the website is actually a c
 
 ### Making sure it works
 
-Now you're going to need to get into the command line in order to use Hugo. While this is not strictly necessary for changing the website, I recommend it so you can make sure your changes actually work.
+You need to get into the command line in order to use Hugo. While this is not strictly necessary for changing the website, I recommend it so you can make sure your changes actually work.
 
 While in the s-1lab-website directory (you can be anywhere in it, not only the top directory), type ```hugo``` and press enter. This builds the site, which means hugo goes through all the files and turns them into browser-legible html, which get deposited in a newly made public/ directory. 
 
 <blockquote>
-Sidenote: The public/ directory is not part of the repository. One of the hidden files (these start with a period) in a git repository is ".gitignore". It lists all the files and subdirectories that are excluded by git's tracking.
+    Sidenote: The public/ directory is not part of the repository. One of the hidden files (these start with a period) in a git repository is ".gitignore". It lists all the files and subdirectories that are excluded by git's tracking.
 </blockquote>
 
+When working on the site, you may need to delete this directory between builds to avoid conflicting files. This can be done by entering ```rm -rf public/``` into the command line.
+
+To view the site, run ```hugo serve``` and enter localhost:1313 in your internet browser.
 
 ## Contributing to the site
 
