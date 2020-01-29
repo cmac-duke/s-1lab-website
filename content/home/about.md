@@ -1,5 +1,5 @@
 +++
-# About widget.
+# About Page
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -15,20 +15,8 @@ author = "admin"
 [design]
   columns = "1"
 +++
-<head>
-  <style>
-    img .shadow {
-        -webkit-filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
-        filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
-      }  
-  </style>
-</head>
 
-<div>
-  <img src="static/img/s-1_Logo_NoShadows.svg" class="shadow" />
-</div>
-
-<!-- {{< figure library="true" src="s-1_Logo_NoShadows.svg" lightbox="false" >}} -->
+{{< figure library="true" src="s-1_Logo_NoShadows.svg" lightbox="false" >}}  
 
 The S-1 speculative sensation lab is a space for artistic experimentation with emerging digital technologies and their impact on sensory experience.
 
