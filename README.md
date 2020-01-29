@@ -123,7 +123,7 @@ While in the s-1lab-website directory (you can be anywhere in it, not only the t
 
 When working on the site, you may need to delete this directory between builds to avoid conflicting files. This can be done by entering `rm -rf public/` into the command line.
 
-To view the site, run `hugo serve` and enter "localhost:1313" in your internet browser.  
+To view the site, run `hugo serve` and enter "localhost:1313" in your internet browser. So long as as the terminal is running this command, you can save changes made to files and see the result in your browser. To end the `serve` command, press Ctrl+C.
 
 ## Contributing to the site
 
