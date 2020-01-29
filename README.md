@@ -219,7 +219,7 @@ This creates a new folder within the content/authors/ subdirectory. And within t
 Open the newly created "_index.md" file and make sure that the display name on line 2 is correct. After that, scroll down and adjust any of the interests, courses, or other info that come with the template. For anything you do not want to include, simply add a hash (#) at the beginning of those lines. Most importantly, at the bottom you will find a list of user groups. All of the options are listed in content/home/people.md. Apply the correct user group (e.g. "- Graduate Students"). After saving, you should see the new name and its avatar.jpg displayed on the home page.
 
 <blockquote>
-  These options are all in what is called frontmatter, which is separated out by three hyphens "---" at its beginning and end. The Academic theme uses YAML ("Yet Another Markdown Language") for its frontmatter. Another popular option is TOML ("Tom's Obvious Markdown Language"), which you'll recognize by its usage of three addition signs "+++" in lieu of hyphens as well as a lot of square brackets for its keys/variables/parameters.
+  These options are all in what is called frontmatter, which, for these files, is separated out by three hyphens "---" at its beginning and end. This is YAML ("Yet Another Markdown Language"). Another popular option is TOML ("Tom's Obvious Markdown Language"), which you'll recognize by its usage of three addition signs "+++" in lieu of hyphens as well as a lot of square brackets for its keys/variables/parameters. Academic seems to mix it up rather than sticking with one or the other.
 </blockquote>
 
 To change the avatar, replace the image with another .png or .jgp file that has been named "avatar". (Note that JPEGs also use .jpg for their file suffix.)
@@ -240,4 +240,4 @@ To create a new event:
 hugo new --kind event event/hear-ye-hear-ye
 ```
 
-As with members in the authors/ subdirectory, these pages are presented on the site dependent upon the tags given to them. You should be able to follow the examples of those already provided. Remember that the options are in the corresponding widget page within content/home/.
+As with members in the authors/ subdirectory, these pages are presented on the site dependent upon the tags given to them. You should be able to follow the examples of those already provided. Remember that the options are in the corresponding widget page within content/home/. For example, to see the possible tags for projects, go to content/home/projects.md, where you will see the TOML formatting of filter buttons for two tags (progress and recent) along with an "all" option.
