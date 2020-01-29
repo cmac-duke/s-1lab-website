@@ -15,7 +15,20 @@ author = "admin"
 [design]
   columns = "1"
 +++
-{{< figure library="true" src="s-1_Logo_NoShadows.svg" lightbox="false" >}}
+<head>
+  <style>
+    img .shadow {
+        -webkit-filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+        filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+      }  
+  </style>
+</head>
+
+<div>
+  <img src="static/img/s-1_Logo_NoShadows.svg" class="shadow" />
+</div>
+
+<!-- {{< figure library="true" src="s-1_Logo_NoShadows.svg" lightbox="false" >}} -->
 
 The S-1 speculative sensation lab is a space for artistic experimentation with emerging digital technologies and their impact on sensory experience.
 
