@@ -15,10 +15,10 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "Zener Cards"
-  focal_point: "Center"
-  preview_only: false
+#image:
+#  caption: "Zener Cards"
+#  focal_point: "Center"
+#  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -27,7 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-![Zener Cards](/project/sensory-leakage/featured.jpg)
 
 Every device is an island. And every micron of its shore is a port to a vast, multidimensional sensory sea. Here at S-1, our speculative sensory technicians have pierced the veil of these dry, silent currents to render them accessible, though hardly legible, to human souls. 
 
