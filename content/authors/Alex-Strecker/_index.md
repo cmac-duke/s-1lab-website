@@ -18,7 +18,7 @@ organizations:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio:
+bio: Alexander Strecker is pursuing a PhD in Art, Art History and Visual Studies. He specializes in contemporary photography, focusing on the impact of technological changes to the medium’s functioning in the past, present, and future.
 
 #interests:
 #- Artificial Intelligence
@@ -68,3 +68,8 @@ email: ""
 user_groups:
 - Graduate Students
 ---
+Alexander Strecker is pursuing a PhD in Art, Art History and Visual Studies. He specializes in contemporary photography, focusing on the impact of technological changes to the medium’s functioning in the past, present, and future. This has included research on the increasing presence of computer vision systems on photographic production, the role of non-human actors in image interpretation, and critically examining the supposed dematerialization of the image. In parallel, he has an interest in how artistic practices register the contradictions inherent in ideas of crisis, periphery, and technology. Drawing on his Greek heritage, he focuses on how these tensions are felt acutely in contemporary Greece, while also resonating worldwide.
+
+At Duke, he is part of S-1 Lab (Speculative Sensation) and a [Bass Connections](https://bassconnections.duke.edu/project-teams/artificial-intelligence-bias-age-technical-elite-2019-2020) team exploring AI bias. He has also collaborated with various arts organizations in Athens, including the [Onassis Cultural Centre](https://www.onassis.org/), [ARTWORKS](https://www.art-works.gr/), and [Athens Photo Festival](https://www.photofestival.gr/).
+
+He received a BA in English *magna cum laude* from Amherst College in 2013. Before coming to Duke, he lived in Paris and Athens for several years while working as the managing editor of the international photography magazine [LensCulture](https://www.lensculture.com/).
