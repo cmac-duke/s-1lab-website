@@ -20,10 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio:
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Process Philosophy
+- Media Studies
+- Science Fiction
+- Phenomenology
+- Marxism
 
 #education:
 #  courses:
