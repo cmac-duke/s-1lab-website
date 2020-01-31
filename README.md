@@ -88,7 +88,7 @@ Then use homebrew to install hugo:
 brew install hugo
 ```
 
-In the future, you may update your homebrew packages by entering: `brew update`
+In the future, you may update your homebrew packages by entering: `brew update` and then `brew upgrade`
 
 ### Cloning the repo
 
