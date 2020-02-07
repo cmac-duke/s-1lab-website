@@ -15,7 +15,7 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: Duke University
-#  url: ""
+#  url: "https://literature.duke.edu/people/jordan-sjol"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
