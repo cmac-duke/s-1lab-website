@@ -76,4 +76,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-For a list of all our projects, click [here](/projects).
+
