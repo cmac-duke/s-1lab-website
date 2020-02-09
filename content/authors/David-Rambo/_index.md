@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "davrambo@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -71,3 +71,5 @@ user_groups:
 - Alumni
 ---
 David completed his PhD in Duke University's Program in Literature in 2018. His dissertation, "Technics Before Time," argues for an original interpretation of the essence of technology, one which explains technological process anterior to the distinction between human experience and prosthetic extensions. It synthesizes the philosophies of Eugen Fink, Gilbert Simondon, Alfred North Whitehead, and Bernard Stiegler through a series of analyses of such popular technologies as *Dungeons & Dragons*, astrophotography, periodontal surgery and orthodontic braces, videogame gore, and electric guitar effects pedals. Check out his website for a list of publications, links to his keyboard code, and teaching experience.
+
+David's writing has been published in *Angelaki*, *Process Studies*, *Post-Cinema: Theorizing 21st-Century Cinema*, and *hyperrhiz*, with more forthcoming in *Discourse: Journal for Theoretical Studies in Media and Culture*.
