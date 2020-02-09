@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
-#  url: ""
+- name: CMAC, Duke University
+  url: "https://aahvs.duke.edu/people/profile/max-symuleski"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -68,3 +68,6 @@ email: ""
 user_groups:
 - Graduate Students
 ---
+Max Symuleski is a PhD student in the Computational Media Arts and Cultures Program in the Art, Art History and Visual Studies Department.  Max specializes in 20th century visual culture and media theory, and is currently working on a dissertation project on themes of environment and technology in 1960s and 70s U.S. art and visual culture.  Their other research interests include the history and technical infrastructures of climate science, socially engaged art, and issues related to the Anthropocene hypothesis.  Max is a 2016-17 Fellow with the [PhD Lab in Digital Knowledge](https://sites.fhi.duke.edu/phdlab/), and is developing projects on qualitative data analysis and digital publishing and presentation for the humanities.
+
+Max holds an MA (2012) from the New School for Social Research in Historical Studies, and a BA (2005) from Sarah Lawrence College with concentrations in Visual Arts and Art Theory.

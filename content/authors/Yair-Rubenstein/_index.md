@@ -68,3 +68,4 @@ email: ""
 user_groups:
 - Graduate Students
 ---
+Yair Rubinstein is a PhD candidate in the Graduate Program in Literature. His research interests include Marxist critical theory, (post)-operaismo, labor and automation, contemporary visual/sonic culture, and German media theory. Along with his scholarly work, Yair is also a practicing electronic musician and DJ, who has produced several recordings on Circle Into Square and Hush Hush Records, along with collaborations with various video artists and filmmakers. 

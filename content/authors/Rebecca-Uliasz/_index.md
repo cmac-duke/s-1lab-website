@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
-#  url: ""
+- name: CMAC, Duke University
+  url: "https://aahvs.duke.edu/people/profile/rebecca-uliasz"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -68,3 +68,4 @@ email: ""
 user_groups:
 - Graduate Students
 ---
+Rebecca Uliasz is a PhD candidate in Computational Media, Arts and Cultures (CMAC) at Duke University. She conducts research in perception in time-based media, analog computation and artificial intelligence, which inspires an artistic practice that incorporates experimental system and instrument building, audio/visual electronic noise performance and multi-media installation. She holds an MFA from SUNY Stony Brook University, where she focused on multi-media installation and performance with video transmission, and a BFA from the University of Connecticut.

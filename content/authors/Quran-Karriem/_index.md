@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
-#  url: ""
+- name: CMAC, Duke University
+  url: "https://aahvs.duke.edu/people/profile/quran-karriem"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -68,3 +68,4 @@ email: ""
 user_groups:
 - Graduate Students
 ---
+Quran Karriem is an experimental musician, installation artist and interface designer interested in expressions of individuality, collectivism, competition and cooperation in virtual and performative contexts.

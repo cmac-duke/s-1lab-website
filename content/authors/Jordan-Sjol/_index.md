@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
-#  url: "https://literature.duke.edu/people/jordan-sjol"
+- name: Program in Literature, Duke University
+  url: "https://literature.duke.edu/people/jordan-sjol"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -68,3 +68,6 @@ email: "jordan.sjol@duke.edu"
 user_groups:
 - Graduate Students
 ---
+As a scholar situated primarily in media theory, I seek to develop media-theoretical methodologies for studying finance from both cultural and technical viewpoints.
+
+As an instructor I blend traditional and experimental methods, focusing on an interdisciplinary approach that integrates analytic and experiential learning.
