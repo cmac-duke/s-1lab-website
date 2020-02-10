@@ -21,11 +21,11 @@ organizations:
 bio: 
 
 # List each interest with a dash
-interests:
+#interests:
 #- Interest 1
 #- Interest 2
 
-education:
+#education:
   courses:
 #  - course: Title course 1
 #    institution: Name of Institution
