@@ -27,4 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Work in progress.
+The S-1 Lab is currently developing a Duke-RTP engagement centered in the Frontier building's coworking space. We are interested in the recent history and future plans of the Research Triangle Foundation, particularly as they pertain to the current nature of living and working in the region.
+
+### Lunch with S-1 at Frontier
+#### Noon on February 25, 2020 
+
+Please join us for an interactive workshop (free lunch!) that will explore the challenging question of how to do nothing. Over the course of 45 minutes, we will look at a range of creative models and collectively imagine what doing nothing could mean to each of us.
