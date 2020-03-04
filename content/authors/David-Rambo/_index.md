@@ -15,7 +15,7 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: David's Website
-  url: "https://davidrambo.github.io"
+  url: "https://davidrambo.org"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
