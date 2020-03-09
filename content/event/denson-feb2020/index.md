@@ -5,7 +5,7 @@ title: "Discorrelated Aesthetics 2/20 5pm"
 subtitle: "A Talk by Shane Denson"
 summary: ""
 authors: []
-tags: [upcoming]
+tags: [past]
 categories: []
 date: 2020-02-18T20:54:34-05:00
 lastmod: 2020-02-18T20:54:34-05:00

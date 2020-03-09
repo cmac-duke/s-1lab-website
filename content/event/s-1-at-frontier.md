@@ -2,7 +2,7 @@
 title: "S-1 at Frontier on 2/25"
 date: 2020-02-14T14:51:24-05:00
 draft: false
-tags: [upcoming]
+tags: [past]
 ---
 
 ## Lunch with S-1 at Frontier
