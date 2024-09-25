@@ -14,7 +14,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: Program in Literature, Duke University
+- name: Duke University
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
