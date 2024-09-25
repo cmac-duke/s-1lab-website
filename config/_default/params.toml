@@ -5,11 +5,9 @@
 ## Theme
 ############################
 
-# Choose a theme.
-#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in themes in `themes/academic/data/themes/`
-#   Browse user installed themes in `data/themes/`
-theme = "ocean"
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+color_theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -18,7 +16,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "Classic"
+font = "classic"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
