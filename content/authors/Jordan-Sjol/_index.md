@@ -66,7 +66,7 @@ email: "jordan.sjol@duke.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Graduate Students
 ---
 As a scholar situated primarily in media theory, I seek to develop media-theoretical methodologies for studying finance from both cultural and technical viewpoints.
 

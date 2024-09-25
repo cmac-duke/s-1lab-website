@@ -66,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Postdoctoral Fellows
 ---
 Katia Schwerzmann is a postdoc at Duke University. She holds a PhD in Philosophy from the Freie Universität Berlin. Currently, she is working on her second book entitled “Philosophy of Touch in the Digital Age.” Her research intersects the concepts of bodies, politics and technologies.
