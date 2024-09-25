@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of the Practice
+# role: Associate Professor of the Practice
 
 # Organizations/Affiliations
 organizations:
