@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Alumni
 ---
 Alexander Strecker is pursuing a PhD in Art, Art History and Visual Studies. He specializes in contemporary photography, focusing on the impact of technological changes to the medium’s functioning in the past, present, and future. This has included research on the increasing presence of computer vision systems on photographic production, the role of non-human actors in image interpretation, and critically examining the supposed dematerialization of the image. In parallel, he has an interest in how artistic practices register the contradictions inherent in ideas of crisis, periphery, and technology. Drawing on his Greek heritage, he focuses on how these tensions are felt acutely in contemporary Greece, while also resonating worldwide.
 

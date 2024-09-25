@@ -66,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Alumni
 ---
 Rebecca Uliasz is a PhD candidate in Computational Media, Arts and Cultures (CMAC) at Duke University. She conducts research in perception in time-based media, analog computation and artificial intelligence, which inspires an artistic practice that incorporates experimental system and instrument building, audio/visual electronic noise performance and multi-media installation. She holds an MFA from SUNY Stony Brook University, where she focused on multi-media installation and performance with video transmission, and a BFA from the University of Connecticut.
