@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Hugo F. Id&aacute;rraga Franco
+name: Hugo F. Idárraga Franco
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: Mastodon
-  url: ""
+- name: Scholars@Duke Profile
+  url: "https://scholars.duke.edu/person/hugo.idarraga"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -47,9 +47,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: building-columns
-  icon_pack: fas
-  link: https://scholars.duke.edu/person/hugo.idarraga
+# - icon: building-columns
+#   icon_pack: fas
+#   link: https://scholars.duke.edu/person/hugo.idarraga
 - icon: mastodon
   icon_pack: fab
   link: https://tldr.nettime.org/@estereoscopio
@@ -67,4 +67,4 @@ social:
 user_groups:
 - Graduate Students
 ---
-Hugo F. Id&aacute;rraga Franco, with a background in philosophy (BA), communication (MA), and digital humanities (MA), is currently a PhD student in Computational Media, Arts, and Cultures at Duke University. His research focuses on classification data practices in artificial neural network technologies, exploring intersections with critical theory, adversarial technologies, and Global South onto-epistemologies.
+Hugo F. Idárraga Franco, with a background in philosophy (BA), communication (MA), and digital humanities (MA), is currently a PhD student in Computational Media, Arts, and Cultures at Duke University. His research focuses on classification data practices in artificial neural network technologies, exploring intersections with critical theory, adversarial technologies, and Global South onto-epistemologies.
